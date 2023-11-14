@@ -1,0 +1,153 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;400;500;600;700;900&display=swap");
+/* #heading {
+  color: pink;
+}
+
+.text {
+  color: blueviolet;
+} */
+
+/* p {
+  color: red !important;
+}
+
+.text {
+  color: yellow !important;
+}
+
+#special-text {
+  color: purple;
+} */
+
+/* #text {
+  width: 200px;
+  height: 300px;
+  color: rgb(25, 155, 135);
+  background-color: bisque;
+}
+
+body {
+  background-color: cadetblue;
+} */
+
+div {
+  /* width: 100px;
+  height: 100px;
+  background-color: rgb(119, 182, 156); */
+  /* border: 5px double pink; */
+  /* border-width: 2px; */
+  /* border-style: solid; */
+  /* border-color: rgb(173, 41, 41); */
+  /* border-bottom: 2px solid red; */
+  /* border-left: 4px dashed green; */
+  /* border-top-left-radius: 50%; */
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.card {
+  /* width: 100px;
+  background-color: bisque; */
+  /* padding: 10px 10px 10px 10px; */
+  /* padding-right: 20px; */
+  /* border: 5px solid green;
+  margin: 50px 40px 30px 20px; */
+}
+
+/* div,
+span {
+  background-color: aquamarine;
+}
+
+div {
+  display: inline;
+}
+span {
+  width: 300px;
+  height: 300px;
+  display: inline;
+} */
+
+/* .card {
+  width: 100px;
+  height: 100px;
+  background-color: cornflowerblue;
+  display: inline-block;
+  margin: 20px;
+} */
+
+/* .card {
+  width: 120px;
+  height: 120px;
+  padding: 20px;
+  background-color: black;
+  border: 5px solid red;
+} */
+
+/* button {
+  padding: 8px 12px;
+  border: none;
+  margin: 50px;
+  background-color: rgba(138, 43, 226, 0.3);
+  border-radius: 6px;
+  color: red;
+  cursor: pointer;
+  opacity: 1;
+} */
+
+/*  ---- Text  ----- */
+
+html {
+  font-family: "Inter";
+}
+
+p {
+  /* width: 400px; */
+  /* display: inline-block; */
+  /* text-align: center; */
+}
+
+body {
+  /* padding: 30px; */
+}
+/* p {
+  text-decoration: line-through dashed;
+} */
+
+p {
+  /* font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif; */
+  /* text-transform: capitalize; */
+  /* text-indent: 100px; */
+  /* letter-spacing: 10px; */
+  /* word-spacing: 50px; */
+  /* line-height: 100px; */
+  /* font-size: 32px; */
+  /* font-weight: 100; */
+}
+
+ul {
+  /* list-style-type: disc; */
+}
+
+div {
+  /* width: 50%;
+  min-width: 400px;
+  max-width: 450px;
+  height: 60px;
+  background-color: red; */
+}
+/* 
+button {
+  width: 50%;
+} */
+
+/* img {
+  width: 200px;
+  height: 80px;
+  object-fit: cover;
+  object-position: bottom;
+} */
