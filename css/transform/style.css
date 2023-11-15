@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 40px;
+}
+
+.square {
+  /* width: 100px;
+  height: 100px;
+  background-color: rgb(118, 44, 44); */
+  /* transform: translate(100px, 200px); */
+  /* transform: rotate(90deg); */
+  /* transform: rotateY(180deg); */
+  /* transform: scale(0.3); */
+}
+
+.square span {
+  /* display: inline-block; */
+  /* transform: translate(45px, 40px) rotate(-45deg); */
+}
