@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* p {
+  width: 200px;
+  white-space: wrap;
+} */
+/* div {
+  width: 100px;
+  height: 100px;
+  background-color: purple;
+  clip-path: polygon(41% 30%, 52% 0, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+} */
+
+p {
+  width: 200px;
+  height: 150px;
+  margin: 50px;
+  color: green;
+  background-color: rgb(173, 173, 173);
+  overflow: auto;
+}
