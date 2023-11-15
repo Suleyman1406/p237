@@ -1,0 +1,86 @@
+/* p{
+
+}
+.test{
+
+}
+#trial{
+
+} */
+
+.card {
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+}
+
+/* section .card {
+  background-color: red;
+}
+section.classes-section .card {
+  background-color: green;
+} */
+
+/* .card {
+  background-color: red;
+}
+
+section div.card.active {
+  background-color: aquamarine;
+} */
+
+/* .out {
+}
+
+.middle {
+}
+
+.out .in {
+  width: 20px;
+  height: 20px;
+  background-color: black;
+} */
+
+/* .wrapper {
+  width: 100%;
+  height: 100px;
+  background-color: rebeccapurple;
+}
+
+.wrapper .element {
+  width: 400px;
+  height: 30px;
+  background-color: yellow;
+}
+
+.wrapper > div > div.child#hello {
+  width: 200px;
+  height: 10px;
+  background-color: red;
+} */
+
+.outer {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  border: 25px solid red;
+  background-color: orange;
+}
+
+.outer .middle {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 25px solid yellow;
+  background-color: green;
+  margin: 25px;
+}
+
+.outer .middle .inner {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 25px solid blue;
+  background-color: purple;
+  margin: 25px;
+}
