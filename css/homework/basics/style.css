@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* .head {
+  width: 100px;
+  height: 100px;
+  margin-left: 200px;
+  margin-top: 100px;
+  background-color: gray;
+  padding-top: 15px;
+}
+
+.head .eyes {
+  margin-left: 25px;
+}
+
+.head .eyes .eye {
+  display: inline-block;
+  margin: 5px;
+  background-color: white;
+  border-radius: 40px;
+  font-size: 20px;
+}
+
+.head .nose {
+  margin-left: 44px;
+  color: white;
+}
+
+.head .mouth {
+  width: 80px;
+  height: 15px;
+  background-color: white;
+  margin-left: 10px;
+  margin-top: 5px;
+  border-radius: 30px;
+} */
+
+.wrapper {
+  padding: 50px;
+}
+
+.wrapper .circle {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  padding: 41px;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 50%;
+  margin-left: -30px;
+  /* background-color: transparent; */
+}
+
+.wrapper .circle.red {
+  border-color: red;
+  margin-left: 0;
+}
+.wrapper .circle.yellow {
+  border-color: yellow;
+}
+.wrapper .circle.blue {
+  border-color: blue;
+}
+.wrapper .circle.black {
+  border-color: black;
+}
+.wrapper .circle.green {
+  border-color: green;
+}
